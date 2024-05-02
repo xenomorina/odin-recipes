@@ -1,3 +1,23 @@
-h1, h2, h3, h4, h5, h6 {
+body {
+    background-color: #f2ebe6;
+}
+
+h1, h2, h3, h4, h5, h6,
+p,
+li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #373839;
+
+}
+
+a {
+    color: rgba(248, 115, 27, 1);
+}
+
+a:hover {
+    color: rgba(248, 115, 27, 0.8);
+}
+
+img {
+    border-radius: 24px;
 }
